@@ -1,0 +1,1 @@
+with *.pas do pause
